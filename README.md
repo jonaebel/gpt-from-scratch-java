@@ -4,6 +4,7 @@ A GPT-style decoder-only Transformer trained on German Wikipedia, implemented **
 
 The goal is to understand and implement every component by hand: attention, backpropagation, Adam, Layer Norm.
 I'm aware that Java is probably the worst language performance-wise to build anything ML-related, but for me it was the perfect choice for learning the fundamentals from scratch. Java gives you all the mathematical support you need while forcing you to think explicitly about how things work and fit together. Building this project was essential for developing a deeper understanding of the GPT-style model architecture, and it laid a solid foundation to continue in other languages like Python using high-level libraries like PyTorch or NumPy.
+(Comments where made inconsistanlty in german :/ -> next project only english comments  ) 
 
 ---
 
