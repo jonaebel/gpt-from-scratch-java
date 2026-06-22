@@ -142,3 +142,8 @@ The program will ask whether to **train** or **generate** text.
 ## Motivation
 
 This project was built to deeply understand how Transformers work at the level of individual matrix operations and gradient flows — before relying on frameworks like PyTorch or JAX. Implementing backpropagation through attention, layer norm, and the fused softmax-CCE loss by hand forces a level of precision that framework usage alone does not require.
+
+## Authors
+
+Built together by **[Peer Grunow](https://github.com/peergrunow-star)** and **[Jonathan Ebel](https://github.com/jonaebel)**.
+
